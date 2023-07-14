@@ -1,0 +1,6 @@
+Host psql-tunnel
+  HostName whatever.host.name
+  User root
+  Port port_of_the_host
+  IdentityFile /path/to/your/private/key
+  IdentitiesOnly yes
